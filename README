@@ -1,1 +1,9 @@
-Dropbox status addon for gnome shell.
+Dropbox status icon extension for gnome-shell.
+
+Installation:
+
+mkdir -p ~/.local/share/gnome-shell/extensions
+cd ~/.local/share/gnome-shell/extensions
+git clone git@github.com:gensym-vla/Gnome-Shell-Dropbox-Status-Icon.git dropbox-status@gensym-vla.github.com 
+
+-> Enable the extension through gnome tweak tool
