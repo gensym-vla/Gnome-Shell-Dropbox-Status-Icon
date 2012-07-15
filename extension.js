@@ -1,4 +1,4 @@
-// Creates a system status notification icon for skype
+// Creates a system status notification icon for dropbox
 const StatusIconDispatcher = imports.ui.statusIconDispatcher;
 
 function enable() {
